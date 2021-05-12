@@ -1,3 +1,33 @@
-# social-media
+# Social Network API
 
-Hello UofT team, once again so sorry to send this in without a demo or readme i will update all the readme's and fix some issues once i find all the files from my old HDD i just want to get something submitted rather than not. Thank you!
+## Description
+A database using NoSQL that handles unstructed data on a social media network. 
+
+##
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Licence](#Licence)
+- [Contributors](#Contributors)
+- [Test](#Test)
+- [Repository Link](#Repository)
+- [GitHub Info](#GitHub) 
+
+## Installation
+install npm init and npm install
+
+## Usage
+MongoDB Node Express Mongoose and JS
+## Licence
+
+## Contributors
+Johnny Wu
+
+## Test
+Deployed link will be on soon
+
+## Repository
+https://github.com/WuJoh/social-media/tree/main
+
+## Project Repo
+https://github.com/WuJoh/social-media/tree/main
